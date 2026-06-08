@@ -1,0 +1,7 @@
+pyrogram>=2.1.0
+tgcrypto>=1.2.5
+pytz
+googletrans==4.0.0rc1
+pillow
+requests
+aiohttp
