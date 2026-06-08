@@ -1,0 +1,6 @@
+telethon==1.34.0
+cryptg>=0.4.0
+requests>=2.31.0
+googletrans==4.0.0rc1
+Pillow>=10.0.0
+apscheduler>=3.10.0
